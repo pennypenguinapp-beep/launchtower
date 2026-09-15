@@ -1,146 +1,115 @@
-# LaunchTower — Free Browser Tools for Pixel Artists & Game Devs
+# LaunchTower: free browser games and tools for pixel artists and game devs
 
-**93 free, no-install, no-signup tools that run entirely in your browser.**
+Everything here runs in your browser from a single HTML file. No installs, no signup, nothing uploaded to a server.
 
-Everything here is a single HTML file: open it, use it, close it. No accounts, no uploads to a server, no installs. Built by **LaunchTower** for pixel artists, indie devs, and anyone who wants a quick utility that just works.
+Main site: https://pennypenguinapp-beep.github.io/ · itch.io: https://launchtower.itch.io/
 
-> Tip: bookmark this page. New tools land here regularly.
+## Browser games (53)
 
----
+| Game | What it is |
+|---|---|
+| [Asteroid Run](https://pennypenguinapp-beep.github.io/launchtower-asteroid-run/) |  |
+| [Balloon Pop](https://pennypenguinapp-beep.github.io/launchtower-balloon-pop/) | Tap / click the balloons before they float away. Build combos for bonus points — but DON'T tap the spiky mines! 60 seconds. How high can you go? |
+| [Block Drop](https://pennypenguinapp-beep.github.io/launchtower-block-drop/) | Stack the falling pieces &mdash; clear lines to score. &larr;/&rarr; move &middot; &uarr; rotate &middot; space hard drop C hold &middot; P pause &middot; swipe on touch |
+| [Block Stack](https://pennypenguinapp-beep.github.io/launchtower-block-stack/) | A block slides across the top. Tap, click, or press space to drop it.Overhang gets cut off — perfect drops (±4px) widen the tower.Stack as high as you can. |
+| [Bubble Pop](https://pennypenguinapp-beep.github.io/launchtower-bubble-pop/) | Aim with mouse, touch, or arrow keys — pop 3+ matching bubbles before the ceiling drops. |
+| [Cave Diver](https://pennypenguinapp-beep.github.io/launchtower-cave-diver/) |  |
+| [Color Flood](https://pennypenguinapp-beep.github.io/launchtower-color-flood/) |  |
+| [Connect Four](https://pennypenguinapp-beep.github.io/launchtower-connect-four/) | Drop discs, line up four. Beat the AI or a friend. |
+| [Crate Pusher](https://pennypenguinapp-beep.github.io/launchtower-crate-pusher/) |  |
+| [Dungeon Crawl](https://pennypenguinapp-beep.github.io/launchtower-dungeon-crawl/) | Bump enemies to attack. Grab potions, find keys, open doors, and descend the stairs. How deep can you go? |
+| [Frog Hop](https://pennypenguinapp-beep.github.io/launchtower-frog-hop/) | Cross the road and the river to reach the lily pads. Ride logs to cross water — don't fall in! Each level gets faster. 3 lives. |
+| [Gem Grid](https://pennypenguinapp-beep.github.io/launchtower-gem-grid/) | Swap adjacent gems to line up 3 or more. Bigger matches and cascades score more. |
+| [Ice Slide](https://pennypenguinapp-beep.github.io/launchtower-ice-slide/) | Ice Slide — steer, dodge and speed-run icy tracks in your browser. Free browser tool by LaunchTower. |
+| [Lane Merge](https://pennypenguinapp-beep.github.io/launchtower-lane-merge/) | Tap a lane to release its car — clear the junction without a crash. |
+| [Lights Out](https://pennypenguinapp-beep.github.io/launchtower-lights-out/) |  |
+| [Maze Runner](https://pennypenguinapp-beep.github.io/launchtower-maze-runner/) |  |
+| [Memory Match](https://pennypenguinapp-beep.github.io/launchtower-memory-match/) | Flip cards to find matching pairs. Fewer moves + faster time = better score. Good luck! |
+| [Meteor Miner](https://pennypenguinapp-beep.github.io/launchtower-meteor-miner/) | Take a breather. Your drill is holding position at ${depthMeters()}m. |
+| [Minefield](https://pennypenguinapp-beep.github.io/launchtower-minefield/) |  |
+| [Mole Mash](https://pennypenguinapp-beep.github.io/launchtower-mole-mash/) | Tap the moles before they dive — chain hits for combo points. |
+| [Neon Breaker](https://pennypenguinapp-beep.github.io/launchtower-neon-breaker/) | Smash the glowing grid. 5 levels. 3 lives. |
+| [Neon Cascade](https://pennypenguinapp-beep.github.io/launchtower-neon-cascade/) | Pop the glowing blocks before they escape. Tight controls, satisfying flow, runs anywhere. |
+| [Neon Dash](https://pennypenguinapp-beep.github.io/launchtower-neon-dash/) |  |
+| [Ninja Slice](https://pennypenguinapp-beep.github.io/launchtower-ninja-slice/) | Swipe (or drag with mouse) to slice the flying pixel fruit. Chain slices for combos. Don't slice the bombs — and don't let fruit hit the floor! |
+| [Orbit Dodge](https://pennypenguinapp-beep.github.io/launchtower-orbit-dodge/) | You orbit the core. Tap / click / space to reverse direction.Dodge the incoming pixel shards. Speed rises over time. |
+| [Pattern Echo](https://pennypenguinapp-beep.github.io/launchtower-pattern-echo/) | Watch the pads, then repeat the pattern in order. |
+| [Pixel Archery](https://pennypenguinapp-beep.github.io/launchtower-pixel-archery/) | Drag from the archer to draw the bow — longer drag = more power. Watch the wind, it bends every arrow in flight. 10 arrows per round. Bullseye 50 · ring 30 · outer 15. |
+| [Pixel Bowling](https://pennypenguinapp-beep.github.io/launchtower-pixel-bowling/) |  |
+| [Pixel Fishing](https://pennypenguinapp-beep.github.io/launchtower-pixel-fishing/) |  |
+| [Pixel Golf](https://pennypenguinapp-beep.github.io/launchtower-pixel-golf/) | Drag (or swipe) to aim, release to putt. Sink all 9 holes in as few strokes as you can. |
+| [Pixel Hopper](https://pennypenguinapp-beep.github.io/launchtower-pixel-hopper/) |  |
+| [Pixel Invaders](https://pennypenguinapp-beep.github.io/launchtower-pixel-invaders/) | Alien rows are marching down — shoot them before they reach you. |
+| [Pixel Jigsaw](https://pennypenguinapp-beep.github.io/launchtower-pixel-jigsaw/) | Reassemble the pixel scene — drag pieces to snap them home |
+| [Pixel Picross](https://pennypenguinapp-beep.github.io/launchtower-pixel-picross/) | Fill the cells so each row and column matches its number clues. |
+| [Pixel Pinball](https://pennypenguinapp-beep.github.io/launchtower-pixel-pinball/) |  |
+| [Pixel Pong](https://pennypenguinapp-beep.github.io/launchtower-pixel-pong/) |  |
+| [Pixel Racer](https://pennypenguinapp-beep.github.io/launchtower-pixel-racer/) | Steer to dodge traffic and grab fuel cans. The road gets faster the longer you survive. |
+| [Pixel Snake](https://pennypenguinapp-beep.github.io/launchtower-pixel-snake/) | Ready? |
+| [Pixel Solitaire](https://pennypenguinapp-beep.github.io/launchtower-pixel-solitaire/) |  |
+| [Pixel Sudoku](https://pennypenguinapp-beep.github.io/launchtower-pixel-sudoku/) | Time: 0:00 |
+| [Pixel Volley](https://pennypenguinapp-beep.github.io/launchtower-pixel-volley/) |  |
+| [Reaction Pixel](https://pennypenguinapp-beep.github.io/launchtower-reaction-pixel/) |  |
+| [Rhythm Tap](https://pennypenguinapp-beep.github.io/launchtower-rhythm-tap/) | Tap each lane the moment a note crosses the line, in time with the beat. |
+| [Rocket Lander](https://pennypenguinapp-beep.github.io/launchtower-rocket-lander/) | Guide the lander onto a flat pad.Soft landing: low speed, near-vertical, gentle rotation.Each level: less fuel, trickier terrain, more pads to avoid cliffs. |
+| [Slide Puzzle](https://pennypenguinapp-beep.github.io/launchtower-slide-puzzle/) |  |
+| [Space Trader](https://pennypenguinapp-beep.github.io/launchtower-space-trader/) | Buy low, sell high across 6 distant planets. Prices fluctuate daily. Travel costs fuel. Random events can make or break your run. Survive 30 days. Maximize your net worth |
+| [Star Drift](https://pennypenguinapp-beep.github.io/launchtower-star-drift/) | A fast, neon space-drift arcade game. Dodge, weave, and chase high scores in your browser. |
+| [Tank Duel](https://pennypenguinapp-beep.github.io/launchtower-tank-duel/) |  |
+| [Tile Merge](https://pennypenguinapp-beep.github.io/launchtower-tile-merge/) | Slide tiles to merge matching numbers &middot; reach 2048 to win |
+| [Tower Guard](https://pennypenguinapp-beep.github.io/launchtower-tower-guard/) | =pathPx.length-1){ e.dead=true; lives-= e.boss?5:1; burst(e.x,e.y,"#ff5d5d",10); sfx.hit(); addFloater(e.x,e.y,"-1","#ff5d5d"); if(lives0) continue; // target: furthest a |
+| [Typing Sprint](https://pennypenguinapp-beep.github.io/launchtower-typing-sprint/) | Pixel words fall from the sky. Type each word exactly before it hits the floor. Speed ramps up every level. One wrong letter and the word turns red — finish it to save it |
+| [Word Grid](https://pennypenguinapp-beep.github.io/launchtower-word-grid/) | Drag (or tap) across letters to find every hidden word. Beat the clock! |
+| [Word Ladder](https://pennypenguinapp-beep.github.io/launchtower-word-ladder/) | Word Ladder — transform one word into another, one letter at a time. Free browser tool by LaunchTower. |
 
-## 🎮 Browser Games (play instantly)
+## Pixel-art and game-dev tools (35)
 
 | Tool | What it does |
 |---|---|
-| [Space Trader](https://pennypenguinapp-beep.github.io/launchtower-space-trader/) | Trade and fly across a procedurally generated star map. |
-| [Balloon Pop](https://pennypenguinapp-beep.github.io/launchtower-balloon-pop/) | Time-attack balloon popping with combo scoring. |
-| [Ice Slide](https://pennypenguinapp-beep.github.io/launchtower-ice-slide/) | Slide down an icy slope, dodge obstacles, chain tricks. |
-| [Word Ladder](https://pennypenguinapp-beep.github.io/launchtower-word-ladder/) | Transform one word into another, one letter at a time. |
-| [Pixel Bowling](https://pennypenguinapp-beep.github.io/launchtower-pixel-bowling/) | Aim and power your ball to clear retro pins. |
-| [Rocket Lander](https://pennypenguinapp-beep.github.io/launchtower-rocket-lander/) | Thrust-vector lander: touch down soft or explode. |
-| [Dungeon Crawl](https://pennypenguinapp-beep.github.io/launchtower-dungeon-crawl/) | Roguelike dungeon crawl with random maps and loot. |
-| [Lane Merge](https://pennypenguinapp-beep.github.io/launchtower-lane-merge/) | Merge matching lanes to clear traffic and score big. |
-| [Pixel Jigsaw](https://pennypenguinapp-beep.github.io/launchtower-pixel-jigsaw/) | Drag-and-drop pixel-art jigsaw puzzles. |
-| [Ninja Slice](https://pennypenguinapp-beep.github.io/launchtower-ninja-slice/) | Swipe to slice targets before they escape. |
-| [Pixel Volley](https://pennypenguinapp-beep.github.io/launchtower-pixel-volley/) | Paddle-based pixel volleyball against the CPU. |
-| [Meteor Miner](https://pennypenguinapp-beep.github.io/launchtower-meteor-miner/) | Blast meteors for ore, manage your hull. |
-| [Pixel Pinball](https://pennypenguinapp-beep.github.io/launchtower-pixel-pinball/) | Flippers, bumpers and combos in a retro pinball cabinet. |
-| [Tank Duel](https://pennypenguinapp-beep.github.io/launchtower-tank-duel/) | Top-down tank arena with destructible walls. |
-| [Frog Hop](https://pennypenguinapp-beep.github.io/launchtower-frog-hop/) | Hop across lily pads with momentum and timing. |
-| [Pixel Fishing](https://pennypenguinapp-beep.github.io/launchtower-pixel-fishing/) | Cast, reel and collect a pixel fish collection. |
-| [Pixel Archery](https://pennypenguinapp-beep.github.io/launchtower-pixel-archery/) | Wind-affected archery range with score rings. |
-| [Rhythm Tap](https://pennypenguinapp-beep.github.io/launchtower-rhythm-tap/) | Tap to the beat and keep your combo alive. |
-| [Orbit Dodge](https://pennypenguinapp-beep.github.io/launchtower-orbit-dodge/) | Steer your ship through orbiting hazards. |
-| [Pixel Golf](https://pennypenguinapp-beep.github.io/launchtower-pixel-golf/) | Mini-golf with slopes, water and par scoring. |
-| [Block Stack](https://pennypenguinapp-beep.github.io/launchtower-block-stack/) | Stack falling blocks without overhanging. |
-| [Slide Puzzle](https://pennypenguinapp-beep.github.io/launchtower-slide-puzzle/) | Classic 15-style sliding tile puzzle. |
-| [Color Flood](https://pennypenguinapp-beep.github.io/launchtower-color-flood/) | Flood the board from a corner in as few moves as possible. |
-| [Pixel Sudoku](https://pennypenguinapp-beep.github.io/launchtower-pixel-sudoku/) | Sudoku with pixel styling and difficulty levels. |
-| [Pattern Echo](https://pennypenguinapp-beep.github.io/launchtower-pattern-echo/) | Memorize and repeat the growing pattern sequence. |
-| [Mole Mash](https://pennypenguinapp-beep.github.io/launchtower-mole-mash/) | Whack moles as fast as you can. |
-| [Tower Guard](https://pennypenguinapp-beep.github.io/launchtower-tower-guard/) | Tower defense: place turrets, stop the waves. |
-| [Tile Merge](https://pennypenguinapp-beep.github.io/launchtower-tile-merge/) | Merge matching tiles to reach the highest value. |
-| [Crate Pusher](https://pennypenguinapp-beep.github.io/launchtower-crate-pusher/) | Sokoban-style crate pushing puzzles. |
-| [Gem Grid](https://pennypenguinapp-beep.github.io/launchtower-gem-grid/) | Swap gems to line up matches and clear the board. |
-| [Neon Dash](https://pennypenguinapp-beep.github.io/launchtower-neon-dash/) | Endless neon runner with jump and slide. |
-| [Pixel Hopper](https://pennypenguinapp-beep.github.io/launchtower-pixel-hopper/) | Auto-runner hopper with obstacles and coins. |
-| [Memory Match](https://pennypenguinapp-beep.github.io/launchtower-memory-match/) | Flip cards to find all the matching pairs. |
-| [Pixel Invaders](https://pennypenguinapp-beep.github.io/launchtower-pixel-invaders/) | Shoot waves of descending pixel invaders. |
-| [Block Drop](https://pennypenguinapp-beep.github.io/launchtower-block-drop/) | Tetris-style falling block stacking. |
-| [Minefield](https://pennypenguinapp-beep.github.io/launchtower-minefield/) | Classic minesweeper with flagging and timers. |
-| [Pixel Pong](https://pennypenguinapp-beep.github.io/launchtower-pixel-pong/) | Retro paddle pong against the CPU. |
-| [Asteroid Run](https://pennypenguinapp-beep.github.io/launchtower-asteroid-run/) | Blast through an asteroid belt, dodge the big ones. |
-| [Pixel Snake](https://pennypenguinapp-beep.github.io/launchtower-pixel-snake/) | Classic snake with walls, food and high scores. |
-| [Neon Breaker](https://pennypenguinapp-beep.github.io/launchtower-neon-breaker/) | Breakout with neon blocks and power-ups. |
-| [Star Drift](https://pennypenguinapp-beep.github.io/launchtower-star-drift/) | Drift through a starfield, collect, survive. |
-| [Calculator](https://pennypenguinapp-beep.github.io/launchtower-calculator/) | A clean, keyboard-friendly calculator. |
-| [Maze Runner](https://pennypenguinapp-beep.github.io/launchtower-maze-runner/) | Navigate randomly generated mazes as fast as you can. |
-| [Bubble Pop](https://pennypenguinapp-beep.github.io/launchtower-bubble-pop/) | Pop bubbles in chains before time runs out. |
-| [Pixel Picross](https://pennypenguinapp-beep.github.io/launchtower-pixel-picross/) | Nonogram puzzles: fill the grid from the clues. |
-| [Word Grid](https://pennypenguinapp-beep.github.io/launchtower-word-grid/) | Find hidden words in a letter grid. |
-| [Connect Four](https://pennypenguinapp-beep.github.io/launchtower-connect-four/) | Classic Connect Four vs a CPU opponent. |
-| [Lights Out](https://pennypenguinapp-beep.github.io/launchtower-lights-out/) | Toggle lights to turn the whole board off. |
-| [Pixel Racer](https://pennypenguinapp-beep.github.io/launchtower-pixel-racer/) | Top-down pixel racing with laps and rivals. |
-| [Reaction Pixel](https://pennypenguinapp-beep.github.io/launchtower-reaction-pixel/) | Test your reaction time against the clock. |
-| [Typing Sprint](https://pennypenguinapp-beep.github.io/launchtower-typing-sprint/) | Time your typing speed and accuracy. |
-| [Pixel Solitaire](https://pennypenguinapp-beep.github.io/launchtower-pixel-solitaire/) | Klondike solitaire in a pixel skin. |
+| [Tileset Autotile Viewer](https://pennypenguinapp-beep.github.io/launchtower-autotile-viewer/) | Paint a small map, see which 4-bit (16-tile) or 8-bit (47-tile) autotile index each cell resolves to, and export the index table as JSON. |
+| [Tilemap Collision Editor](https://pennypenguinapp-beep.github.io/launchtower-collision-editor/) | Upload a tileset, mark tiles as solid, one-way, or hazard, and export the collision mask as JSON or CSV. |
+| [Color Ramp Generator](https://pennypenguinapp-beep.github.io/launchtower-color-ramp/) | Pick a base color and get an N-step shaded ramp with hue shift. Copy the hex list or CSS vars, export .gpl or .png. |
+| [Color Blindness Simulator](https://pennypenguinapp-beep.github.io/launchtower-colorblind-sim/) | Upload pixel art, see how it reads under the four main color-vision types, and catch palette pairs that collapse. |
+| [Dither Pattern Generator](https://pennypenguinapp-beep.github.io/launchtower-dither-gen/) | Ordered (Bayer) &amp; noise dither tiles for pixel art. Pick colors, tune coverage, export a clean 1px-per-cell PNG tile. |
+| [Bitmap Font Builder](https://pennypenguinapp-beep.github.io/launchtower-font-builder/) | Click/drag on the grid to paint. Shift+click to erase. Draw A–Z, 0–9 and punctuation, then preview your sample text. |
+| [Pixel Grid Overlay](https://pennypenguinapp-beep.github.io/launchtower-grid-overlay/) |  |
+| [Sprite Hitbox Editor](https://pennypenguinapp-beep.github.io/launchtower-hitbox-editor/) |  |
+| [Iso Tile Preview](https://pennypenguinapp-beep.github.io/launchtower-iso-preview/) | Project a top-down tile or small map into a 2:1 isometric view, then export it as a PNG. |
+| [Noise Texture Generator](https://pennypenguinapp-beep.github.io/launchtower-noise-texture/) | Seeded value / Perlin-style noise for pixel art and game textures. Tileable, quantizable, PNG export. All in your browser. |
+| [Normal Map Generator](https://pennypenguinapp-beep.github.io/launchtower-normal-map/) | Turn any sprite or grayscale heightmap into a tangent-space normal map — right in your browser. |
+| [Palette Contrast Checker](https://pennypenguinapp-beep.github.io/launchtower-palette-contrast/) | Score every color pair in your palette for contrast &amp; readability — built for pixel artists |
+| [Aseprite Palette Converter](https://pennypenguinapp-beep.github.io/launchtower-palette-converter/) | Free online palette converter for pixel artists: paste hex lists or upload .gpl/.hex/.pal files, preview swatches, and export to .gpl, .hex, .txt, CSS variables, or JSON. |
+| [Aseprite Palette to CSS Variables](https://pennypenguinapp-beep.github.io/launchtower-palette-css/) | Paste an Aseprite palette (hex list, ASE/JSON export, or CSV) and get ready-to-use CSS custom properties, with contrast checks and copy-to-clipboard. |
+| [Pixel Palette Extractor](https://pennypenguinapp-beep.github.io/launchtower-palette-extractor/) | Drop any image and extract a clean, quantized color palette with HEX/RGB, CSS variables, and .gpl export. |
+| [Palette Reducer](https://pennypenguinapp-beep.github.io/launchtower-palette-reducer/) | Upload pixel art and reduce it to N colors with median-cut quantization. Compare before/after at zoom, copy the resulting hexes, and download a clean PNG. All in your bro |
+| [Palette Swap Tool](https://pennypenguinapp-beep.github.io/launchtower-palette-swap/) | Drop a sprite / image hereor click to browse (PNG, JPG, GIF, WebP) |
+| [Pixel Art Diff](https://pennypenguinapp-beep.github.io/launchtower-pixel-diff/) | Upload two versions of a sprite and see exactly what changed. Highlight the diff, onion-skin the layers, or drag a slider to compare side by side. 100% in your browser — |
+| [Pixel Font Preview](https://pennypenguinapp-beep.github.io/launchtower-pixel-font-preview/) | Type text, render it with a built-in 5×7 bitmap font, pick scale &amp; colors, export a clean PNG. No assets, no network. |
+| [Pixel Painter](https://pennypenguinapp-beep.github.io/launchtower-pixel-painter/) | Tiny pixel-art editor — paint, fill, eyedrop, export. No account, no network. |
+| [Pixel Art Upscaler](https://pennypenguinapp-beep.github.io/launchtower-pixel-upscaler/) | Upscale pixel art 2x-8x with crisp nearest-neighbour scaling. No blur, no artifacts. Free browser tool. |
+| [Resolution Planner](https://pennypenguinapp-beep.github.io/launchtower-resolution-planner/) | Pick a base pixel resolution. See integer scale factors for common screens, safe zones, and UI grid sizes. Export a reference PNG. |
+| [Screenshot Framer](https://pennypenguinapp-beep.github.io/launchtower-screenshot-framer/) | Turn raw pixel art into a polished cover. Crisp upscale, padding, background, rounded corners, caption — sized for itch.io and social. |
+| [Sprite Sheet Packer](https://pennypenguinapp-beep.github.io/launchtower-sheet-packer/) | Drop multiple PNG frames and pack them into one sprite sheet — grid or row, with padding, transparent-edge trimming, and a JSON atlas of frame rects. |
+| [Sprite Animation Previewer](https://pennypenguinapp-beep.github.io/launchtower-sprite-animation-previewer/) | Load a sprite sheet, set frame size and FPS, and preview the animation frame-by-frame at pixel-perfect zoom. Export frames as PNG. |
+| [Sprite Embedder](https://pennypenguinapp-beep.github.io/launchtower-sprite-embedder/) | Upload PNG sprites → base64 data-URIs, CSS sprite-sheet classes &amp; ready HTML tags. No server, no upload — everything stays in your browser. |
+| [Sprite Outline Tool](https://pennypenguinapp-beep.github.io/launchtower-sprite-outline/) | Upload a transparent sprite, add a crisp 1px or 2px outline in any color — inside or outside the pixels — preview at zoom, download as PNG. Runs 100% in your browser. |
+| [LaunchTower](https://pennypenguinapp-beep.github.io/launchtower-sprite-shadow/) | LaunchTower: free browser games, pixel-art asset packs, and handy web tools. Made fast, made free. |
+| [Sprite Sheet Slicer](https://pennypenguinapp-beep.github.io/launchtower-sprite-slicer/) | Slice any sprite sheet into individual tiles with a live grid preview, then download them one by one or all at once. |
+| [Sprite Flip & Rotate](https://pennypenguinapp-beep.github.io/launchtower-sprite-transform/) |  |
+| [Seamless Tile Checker](https://pennypenguinapp-beep.github.io/launchtower-tile-checker/) | Upload a tile, repeat it in a grid, and hunt down seams before they ship in your game. |
+| [LaunchTower Pixel Tile Packs](https://pennypenguinapp-beep.github.io/launchtower-tile-packs/) | Three hand-tuned 16×16 pixel tile sets for 2D games: Forest, Dungeon, and Winter Forest. Free for personal and commercial use. |
+| [Tile Variation Generator](https://pennypenguinapp-beep.github.io/launchtower-tile-variations/) | Upload one tile, get N hand-tuned variations — seeded jitter, hue/lightness shifts, flips and pixel speckles. Preview in a grid, download each as PNG. |
+| [Tilemap Editor Lite](https://pennypenguinapp-beep.github.io/launchtower-tilemap-editor/) | Changing size keeps existing tiles where they fit. |
+| [Tilemap Renderer](https://pennypenguinapp-beep.github.io/launchtower-tilemap-renderer/) | More free tools &amp; games: LaunchTower |
 
-## 🎨 Pixel Art & Sprite Tools
+## Free asset packs (7)
 
-| Tool | What it does |
+| Pack | What is inside |
 |---|---|
-| [Pixel Painter](https://pennypenguinapp-beep.github.io/launchtower-pixel-painter/) | Draw pixel art on a grid with palette and export. |
-| [Sprite Slicer](https://pennypenguinapp-beep.github.io/launchtower-sprite-slicer/) | Slice a sprite sheet into individual frames. |
-| [Sprite Embedder](https://pennypenguinapp-beep.github.io/launchtower-sprite-embedder/) | Convert a sprite to a data-URI you can paste into HTML/CSS. |
-| [Sprite Shadow Generator](https://pennypenguinapp-beep.github.io/launchtower-sprite-shadow/) | Generate drop shadows for sprites. |
-| [Sprite Outline Tool](https://pennypenguinapp-beep.github.io/launchtower-sprite-outline/) | Add clean outlines around sprite pixels. |
-| [Sprite Flip & Rotate](https://pennypenguinapp-beep.github.io/launchtower-sprite-transform/) | Flip, rotate and mirror sprites. |
-| [Sprite Sheet Packer](https://pennypenguinapp-beep.github.io/launchtower-sheet-packer/) | Pack individual sprites into a compact sheet. |
-| [Sprite Animation Previewer](https://pennypenguinapp-beep.github.io/launchtower-sprite-animation-previewer/) | Preview sprite-sheet animations frame by frame. |
-| [Pixel Art Diff](https://pennypenguinapp-beep.github.io/launchtower-pixel-diff/) | Compare two pixel images pixel by pixel. |
-| [Pixel Art Upscaler](https://pennypenguinapp-beep.github.io/launchtower-pixel-upscaler/) | Nearest-neighbor upscale pixel art without blur. |
-| [Pixel Font Preview](https://pennypenguinapp-beep.github.io/launchtower-pixel-font-preview/) | Preview bitmap fonts at multiple sizes. |
-| [Bitmap Font Builder](https://pennypenguinapp-beep.github.io/launchtower-font-builder/) | Design your own bitmap font glyphs. |
-| [Hitbox Editor](https://pennypenguinapp-beep.github.io/launchtower-hitbox-editor/) | Draw and inspect sprite hitboxes. |
-| [Collision Editor](https://pennypenguinapp-beep.github.io/launchtower-collision-editor/) | Build tilemap collision layers visually. |
-
-## 🧱 Tile & Tilemap Tools
-
-| Tool | What it does |
-|---|---|
-| [Tilemap Renderer](https://pennypenguinapp-beep.github.io/launchtower-tilemap-renderer/) | Render tilemaps from JSON specs in the browser. |
-| [Tilemap Editor Lite](https://pennypenguinapp-beep.github.io/launchtower-tilemap-editor/) | Paint tilemaps with a tileset and export JSON. |
-| [Tile Checker](https://pennypenguinapp-beep.github.io/launchtower-tile-checker/) | Check tiles for seamless edges and artifacts. |
-| [Tile Variation Generator](https://pennypenguinapp-beep.github.io/launchtower-tile-variations/) | Generate variations of a base tile. |
-| [Autotile Viewer](https://pennypenguinapp-beep.github.io/launchtower-autotile-viewer/) | Preview autotile edge/corner combinations. |
-| [Iso Tile Preview](https://pennypenguinapp-beep.github.io/launchtower-iso-preview/) | Preview tiles in isometric projection. |
-| [Tile Packs](https://pennypenguinapp-beep.github.io/launchtower-tile-packs/) | Browse and download free tile packs. |
-
-## 🎨 Color & Palette Tools
-
-| Tool | What it does |
-|---|---|
-| [Palette CSS](https://pennypenguinapp-beep.github.io/launchtower-palette-css/) | Turn a palette into CSS variables / classes. |
-| [Palette Contrast Checker](https://pennypenguinapp-beep.github.io/launchtower-palette-contrast/) | Check WCAG contrast between palette colors. |
-| [Palette Reducer](https://pennypenguinapp-beep.github.io/launchtower-palette-reducer/) | Reduce an image to a smaller palette. |
-| [Palette Converter](https://pennypenguinapp-beep.github.io/launchtower-palette-converter/) | Convert palettes between formats (HEX, RGB, Aseprite, etc.). |
-| [Palette Swap Tool](https://pennypenguinapp-beep.github.io/launchtower-palette-swap/) | Swap one palette for another in an image. |
-| [Palette Extractor](https://pennypenguinapp-beep.github.io/launchtower-palette-extractor/) | Extract a dominant-color palette from an image. |
-| [Color Ramp Generator](https://pennypenguinapp-beep.github.io/launchtower-color-ramp/) | Generate smooth color ramps / gradients. |
-| [Color Blindness Simulator](https://pennypenguinapp-beep.github.io/launchtower-colorblind-sim/) | Preview your art under common color-vision deficiencies. |
-
-## 🖼️ Texture & Effect Generators
-
-| Tool | What it does |
-|---|---|
-| [Noise Texture Generator](https://pennypenguinapp-beep.github.io/launchtower-noise-texture/) | Generate noise textures for games and art. |
-| [Normal Map Generator](https://pennypenguinapp-beep.github.io/launchtower-normal-map/) | Build normal maps from height/grayscale images. |
-| [Dither Pattern Generator](https://pennypenguinapp-beep.github.io/launchtower-dither-gen/) | Generate and preview dithering patterns. |
-| [Grid Overlay](https://pennypenguinapp-beep.github.io/launchtower-grid-overlay/) | Overlay pixel grids on images for alignment. |
-| [Screenshot Framer](https://pennypenguinapp-beep.github.io/launchtower-screenshot-framer/) | Add retro frames around screenshots. |
-| [Resolution Planner](https://pennypenguinapp-beep.github.io/launchtower-resolution-planner/) | Plan pixel-art resolutions and aspect ratios. |
-
-## 📊 Factor Research (quant data)
-
-| Tool | What it does |
-|---|---|
-| [Factor Data](https://pennypenguinapp-beep.github.io/launchtower-factor-data/) | Browse factor datasets and definitions. |
-| [Factor Samples](https://pennypenguinapp-beep.github.io/launchtower-factor-samples/) | Sample factor calculations and examples. |
-| [Factor Datasets](https://pennypenguinapp-beep.github.io/launchtower-factor-datasets/) | Downloadable factor datasets. |
-| [Factor Report](https://pennypenguinapp-beep.github.io/launchtower-factor-report/) | A single in-depth factor research report. |
-| [Factor Reports](https://pennypenguinapp-beep.github.io/launchtower-factor-reports/) | A collection of factor research reports. |
-| [Factor Research](https://pennypenguinapp-beep.github.io/launchtower-factor-research/) | Overview and index of all factor research. |
-
----
-
-## How to use
-
-1. Click any tool above — it opens in a new tab.
-2. Everything runs locally in your browser; nothing is uploaded.
-3. Bookmark the ones you use often.
-
-## About
-
-**LaunchTower** builds small, useful, free tools for the pixel-art and indie-game community. No ads, no tracking, no signups. If a tool is missing that you wish existed, that's probably the next one on the list.
-
-*All tools © LaunchTower. Free to use for personal and commercial projects.*
+| [Autumn Forest Tile Pack](https://launchtower.itch.io/autumn-forest-tile-pack) | 16 pixel-art forest tiles at 128×128 in autumn colors: gold/orange foliage, path, water, props. Free (CC-BY). |
+| [Dungeon Tile Pack](https://launchtower.itch.io/dungeon-tile-pack) |  |
+| [Ember Dungeon Tile Pack](https://launchtower.itch.io/ember-dungeon-tile-pack) |  |
+| [Forest Tile Pack](https://launchtower.itch.io/forest-tile-pack) |  |
+| [Ice Dungeon Tile Pack](https://launchtower.itch.io/ice-dungeon-tile-pack) |  |
+| [Toxic Dungeon Tile Pack](https://launchtower.itch.io/toxic-dungeon-tile-pack) |  |
+| [Winter Forest Tile Pack](https://launchtower.itch.io/winter-forest-tile-pack) | 16 pixel-art forest tiles at 128×128 in winter colors: frosted foliage, icy water, path, props. Free (CC-BY). |
